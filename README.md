@@ -1,3 +1,6 @@
+![GitHub watchers](https://img.shields.io/github/watchers/heartshapedbox/rainy-night-city-theme-syntax?color=5955E8&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/heartshapedbox/rainy-night-city-theme-syntax?color=5955E8&logo=github)
+
 # Rainy Night City
 >Dark **_syntax theme_** with bright colors for [Atom](https://atom.io).
 
